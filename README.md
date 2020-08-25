@@ -49,5 +49,5 @@
 [twitter]: https://twitter.com/wesbreck2807
 [instagram]: https://www.instagram.com/wesbrek/
 [linkedin]: https://www.linkedin.com/in/sergio-alfaro-25469b195/
-[email us](mailto:sergioalfaro2807@mail.com)
+[gmail] [email us](mailto:sergioalfaro2807@mail.com)
 
