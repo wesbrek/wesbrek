@@ -50,4 +50,4 @@
 
 [twitter]: https://twitter.com/wesbreck2807
 [instagram]: https://www.instagram.com/wesbrek/
-[linkedin]: https://www.linkedin.com/in/sergio-alfaro-25469b195/
+[linkedin]: https://www.linkedin.com/in/wesbrek/
