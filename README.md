@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to learn about more technologies
-- 🥅 2020 Goals: Be a master in web development
+- 🥅 2021 Goals: Be a master with React JS
 - ⚡ Fun fact: I love listen to music and play guitar
 
 ### Spotify Playing 🎧
