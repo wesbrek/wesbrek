@@ -1,10 +1,9 @@
 ### Hi there, I'm Sergio 👋
 
-## I'm a Student and Developer!
+## I'm a Software Developer!
 
-- 🌱 I’m currently learning web development
 - 👯 I’m looking to learn about more technologies
-- 🥅 2022 Goals: Be a master with React JS
+- 🥅 2024 Goals: Be a master with Next JS
 - ⚡ Fun fact: I love listen to music and play guitar
 
 ### Spotify Playing 🎧
@@ -48,6 +47,4 @@
 
 </details>
 
-[twitter]: https://twitter.com/wesbreck2807
-[instagram]: https://www.instagram.com/wesbrek/
 [linkedin]: https://www.linkedin.com/in/wesbrek/
