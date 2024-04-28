@@ -13,9 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="wesbrek | Gmail"  width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](mailto:sergioalfaro2807@mail.com)
-[<img align="left" alt="wesbrek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="wesbrek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="wesbrek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,12 +37,3 @@
 
 
 ---
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wesbrek&show_icons=true&hide_border=true" />
-
-</details>
-
-[linkedin]: https://www.linkedin.com/in/wesbrek/
