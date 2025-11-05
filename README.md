@@ -1,6 +1,4 @@
-### Hi there, I'm Sergio 👋
-
-## I'm a Software Developer!
+### Hi there, I'm Sergio 👋 I'm a Software Developer!
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wesbrek2807&cover_image=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wesbrek2807&redirect=true)
